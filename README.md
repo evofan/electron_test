@@ -8,3 +8,7 @@ reference
 /sample-electron  
 <img src="https://evofan.github.io/electron_test/sample-electron/pic_1st_test.jpg" width="50%">  
 
+**LAGameStudio/pixitron**  
+[https://github.com/LAGameStudio/pixitron](https://github.com/LAGameStudio/pixitron)  
+/pixitron-master  
+<img src="https://evofan.github.io/electron_test/pixitron-master/pic_pixitron.jpg" width="50%">  
