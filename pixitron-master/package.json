@@ -1,0 +1,37 @@
+{
+  "name": "pixitron",
+  "version": "1.0.0",
+  "description": "A minimal Electron+Pixi game engine application, packed with Pixijs 4.7.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/LAGameStudio/pixitron",
+  "keywords": [
+    "Electron",
+    "Pixijs",
+    "Pixi",
+    "Pixijs.com",
+    "Pixitron",
+    "lost",
+    "astronaut",
+    "lostastronaut",
+    "lostastro",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Lost Astronaut Studios",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "electron-packager": "^12.0.1"
+  },
+  "dependencies": {
+    "electron-debug": "^1.5.0",
+    "howler": "^2.0.9",
+    "pixi-display": "^1.1.1",
+    "pixi.js": "^4.7.3"
+  }
+}
