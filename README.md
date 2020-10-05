@@ -12,3 +12,8 @@ reference
 [https://github.com/LAGameStudio/pixitron](https://github.com/LAGameStudio/pixitron)  
 /pixitron-master  
 <img src="https://evofan.github.io/electron_test/pixitron-master/pic_pixitron.jpg" width="50%">  
+
+**Mkalo/electron-pixijs-typescript**  
+[https://github.com/Mkalo/electron-pixijs-typescript](https://github.com/Mkalo/electron-pixijs-typescript)  
+/electron-pixijs-typescript-master  
+<img src="https://evofan.github.io/electron_test/electron-pixijs-typescript-master/pic_electron_pixijs_ts.jpg" width="50%">   
